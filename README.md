@@ -1,4 +1,4 @@
-# WIDS-Global-Datathon-Competitions
+# WIDS-Global-Datathon-Competitions Projects
 
 
           ****WiDS Challenge Datathon Competition 2023.****
